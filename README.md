@@ -1,8 +1,8 @@
 Deskripsi
+.
+.
 Membuat Landing Page Sederhana
 Bagaimana perasaan kalian setelah mempelajari modul HTML, CSS, dan JavaScript Dasar?
-
-Nah kali ini kalian memiliki misi untuk membuat sebuah landing page dengan tema dari challenge yang telah kamu pilih.
 
 Apa itu landing page?
 Kalian mungkin sudah tahu tentang homepage (atau halaman beranda) dari sebuah website. Homepage bisa berisi informasi mengenai visi dan misi perusahaan, link ke halaman lainnya, daftar kontak, dan berisi informasi sesuai dengan konteks tema dan tujuan website tersebut.
